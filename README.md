@@ -2,7 +2,6 @@ Here's a README for the provided project:
 
 ---
 
-Lung Disease Classifier using Deep Learning
 
 This project utilizes deep learning techniques to classify lung images into two categories: "Affected" and "Normal". It consists of two main scripts: `test.py` and the model training script.
 
